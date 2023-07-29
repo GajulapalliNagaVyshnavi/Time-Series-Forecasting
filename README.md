@@ -1,4 +1,4 @@
-# Time-Series-Forecasting
+# Time-Series-Forecasting - ML
 
 Time series forecasting is a critical component in various real-world applications, enabling businesses and organizations to predict future values based on historical data patterns. In this study, we explore two popular machine learning algorithms for time series forecasting: Holt-Winters and ARIMA (AutoRegressive Integrated Moving Average).
 
